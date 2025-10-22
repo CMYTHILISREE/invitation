@@ -196,7 +196,7 @@ export default function BabyShowerInvite() {
   className="mb-6 text-base md:text-lg font-[Poppins] text-gray-700"
 >
   Join us to celebrate the Mom-to-be{" "}
-  <span className="font-bold text-pink-500">Ramya Sri</span> 💕
+  <span className="font-bold text-pink-500">Ramya</span> 💕
   <br />
   Dad-to-be{" "}
   <span className="font-semibold text-purple-500">Dharanidharan</span>
